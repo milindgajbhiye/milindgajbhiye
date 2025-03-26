@@ -1,27 +1,27 @@
-# 👋 Hey there, I’m Milind Gajbhiye  
+# 👋 Hey, I’m Milind Gajbhiye  
 
 ### 🚀 About Me  
-- 💻 Trying to become an SDE (but DSA keeps attacking me 😭)  
-- 📱 Decided to build a voice messaging app with **Android Studio with Kotlin** (because why make life easy?)  
-- 🤖 Also attempting to make an **AI-powered code debugger**—basically teaching AI to fix my own bugs.  
-- 🕵️‍♂️ Just started **learning graphs**… currently lost in the edges and vertices.  
-- 🔧 Setting up IntelliJ, Java, and Spring Boot… but they refuse to set up my patience.  
+- 💻 Aspiring **Software Developer**, currently in an intense battle with **DSA in Java** (Java: 99 - Me: 1).  
+- 📱 Building a **Voice Messaging App** using **only Python** because I love making things unnecessarily difficult.  
+- 🤖 Working on an **AI-powered code debugger**—basically trying to get AI to do my debugging so I can suffer less.  
+- 🕵️‍♂️ **Learning graphs** from scratch. So far, all I see are **nodes, edges, and my confusion.**  
+- 🛠️ Setting up **IntelliJ, Java, and Spring Boot**, but they seem to be setting me up for frustration instead.  
 
 ### 🎯 Current Struggles  
-- **Git & GitHub** → I just copy-paste `git commands` and pray.  
-- **React & Flask** → They sound fancy, but right now, they’re just a mystery.  
-- **Mobile Internet Safety Hackathon** → Hoping to win, but first, gotta figure out what I’m doing.  
+- **Git & GitHub?** Yeah… I’m still at the “copy-paste random git commands” stage.  
+- **React & Flask?** I heard they’re cool. I also heard they require understanding.  
+- **Hackathon on Mobile Internet Safety?** Step 1: Figure out what I’m even doing.  
 
-### 💡 Things I’m Proud Of  
-- Decided to make **a ChatGPT clone** (as if one AI wasn’t enough).  
-- Attempting **DSA in Java** despite Java trying its best to scare me away.  
-- Somehow still motivated after all these challenges.  
+### 💡 Things I’m (Somewhat) Proud Of  
+- Decided to **clone ChatGPT**—because why not compete with a billion-dollar AI?  
+- Chose **Java for DSA** instead of Python. Clearly, I love suffering.  
+- **Still alive** after dealing with all the errors, bugs, and failed deployments.  
 
 ### 💞️ Looking to Collaborate On  
-- Anything that won’t break my brain (but I’ll probably pick the hardest thing anyway).  
+- Anything exciting, **as long as it doesn’t break my brain (too much).**  
 
 ### 📫 How to Reach Me  
-- Just scream "Milind!" into the void—if it echoes back, I’m probably debugging.  
+- Just whisper "segmentation fault" three times, and I’ll appear.  
 
 ### ⚡ Fun Fact  
-- My projects have more errors than actual code, but that’s what makes them fun!  
+- My debugging technique? **Add print statements everywhere and hope for the best.**  
