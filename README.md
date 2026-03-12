@@ -68,13 +68,6 @@ I enjoy building real projects that combine **logic, data, and automation** whil
 #### 🎨 Design & Creative  
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
 
-
-💻 **Tech Stack**
-
-`Java` · `Python` · `HTML` · `CSS` · `Flask` · `OpenCV`  
-`MySQL` · `SQLite` · `Git` · `GitHub`  
-`IntelliJ IDEA` · `VS Code` · `Blender`
-
 ---
 
 🚀 **Engineering Focus**
@@ -98,16 +91,6 @@ I enjoy building real projects that combine **logic, data, and automation** whil
 
 ---
 
-📫 **Connect With Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milind-gajbhiye)  
-[![GitHub](https://img.shields.io/badge/GitHub-milindgajbhiye-black?style=flat&logo=github)](https://github.com/milindgajbhiye)
-
----
-
-🌱 **Always learning, building, and improving one project at a time.**  
-Check out my repositories or reach out if you want to collaborate on something interesting.
-
 ### 💡 Things I’m Proud Of  
 
 - 🚀 Consistently building real-world projects instead of staying in tutorial mode  
@@ -120,8 +103,6 @@ Check out my repositories or reach out if you want to collaborate on something i
 - 📈 Continuously upgrading my coding discipline, workflow, and system thinking  
 
 ---
-
-### 🤝 Open to Collaborate On  
 
 I’m excited to work on projects involving:  
 
@@ -136,12 +117,15 @@ I enjoy working with people who value clean code, structured thinking, and conti
 
 ---
 
-### 📫 Connect With Me  
+📫 **Connect With Me**
 
-- 💼 **GitHub:** https://github.com/milindgajbhiye  
-- 🔗 **LinkedIn:** www.linkedin.com/in/milind-gajbhiye-545763262
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milind-gajbhiye)  
+[![GitHub](https://img.shields.io/badge/GitHub-milindgajbhiye-black?style=flat&logo=github)](https://github.com/milindgajbhiye)
 
-If you're building something meaningful and need a committed developer who’s constantly leveling up — let’s connect.
+---
+
+🌱 **Always learning, building, and improving one project at a time.**  
+Check out my repositories or reach out if you want to collaborate on something interesting.
 
 ### ⚡ Fun Fact  
 - My debugging technique? **Add print statements everywhere and hope for the best.**  
