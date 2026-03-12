@@ -1,52 +1,32 @@
-# 👋 Hey, I’m Milind Gajbhiye  
+# 👋 Hi there, I'm Milind Gajbhiye
 
-### 🚀 About Me  
-
-- 💻 Developing **Software Engineer** focused on building scalable backend & AI-driven systems. ![Java](https://img.icons8.com/color/25/java-coffee-cup-logo--v1.png) ![Python](https://img.icons8.com/color/25/python.png)  
-
-- 🧠 Actively mastering **Data Structures & Algorithms in Java** — turning problem-solving into a daily discipline.  
-
-- 🤖 Built a **Face Emotion Detection System** using Python & OpenCV — exploring how machines interpret human expressions.  ![AI](https://img.icons8.com/fluency/25/artificial-intelligence.png)  
-
-- 📊 Developed a structured **Student Management System (Java, OOP-based)** — focusing on clean architecture and modular design.  
-
-- 📚 Created **My Python StudyBuddy** — a beginner-focused learning assistant for strengthening Python fundamentals.  
-
-- 🌐 Worked on a **Tourism Web Project** and **Instagram UI Clone** — strengthening frontend structure and layout understanding.  
-
-- 📡 Built a **University Course Data Scraping Tool** — extracting and structuring real-world data programmatically.  
-
-- ⚔️ Explored creativity through a **3D Sword Modeling Project (Blender)** — combining logic with digital design.  
-
-- ⚙️ Continuously improving my **Git & GitHub workflow** — moving from copy-paste commands to understanding version control deeply.  ![GitHub](https://img.icons8.com/glyph-neue/25/github.png)  
-
----
-### 🎯 Current Growth Focus  
-
-- ⚙️ Strengthening my **Git & GitHub workflow** — mastering version control, branching, and clean project structuring.  
-  ![GitHub](https://img.icons8.com/glyph-neue/25/github.png)  
-
-- ⚛️ Actively learning **React & Flask** to build strong full-stack applications and scalable backend systems.  
-
-- 🧠 Sharpening my **DSA in Java** — improving problem-solving speed, logic clarity, and coding efficiency.  
-
-- 🚀 Participating in **Hackathons** to improve rapid prototyping, teamwork, and building under pressure.  
+I'm a **Software Engineer focused on backend systems, AI experimentation, and structured problem solving.**  
+I enjoy building real projects that combine **logic, data, and automation** while constantly improving my engineering discipline.
 
 ---
 
-### 📂 Featured Repositories  
+🧠 **Currently working on:**
 
-| 🚀 Project | ⚙️ Tech Stack | 📌 Description |
-|------------|--------------|----------------|
-| [**Mediser**](https://github.com/milindgajbhiye/mediser) | ![Java](https://img.icons8.com/color/25/python.png) | Medicine & healthcare management system focused on structured data handling and clean backend logic. |
-| [**studentmanagmentsystem**](https://github.com/milindgajbhiye/studentmanagmentsystem) | ![Java](https://img.icons8.com/color/25/java-coffee-cup-logo--v1.png) | OOP-based system to manage student records efficiently using modular architecture. |
-| [**3D-Sword-Project**](https://github.com/milindgajbhiye/3D-Sword-Project) | ![Blender](https://img.icons8.com/color/25/blender-3d.png) | 3D modeling project showcasing digital design and rendering skills. ⚔️ |
-| [**tourism-web**](https://github.com/milindgajbhiye/tourism-web) | 🌐 HTML, CSS | Responsive tourism website focusing on structured UI and layout fundamentals. |
-| [**instagram-clone**](https://github.com/milindgajbhiye/instagram-clone) | 🌐 HTML | Frontend UI clone built to strengthen layout replication and design understanding. |
-| [**my-python-studybudy**](https://github.com/milindgajbhiye/my-python-studybudy) | ![Python](https://img.icons8.com/color/25/python.png) 🤖 | Beginner-focused Python assistant tool for reinforcing programming concepts. |
-| [**University-Course-Data-Scraping**](https://github.com/milindgajbhiye/University-Course-Data-Scraping) | ![Python](https://img.icons8.com/color/25/python.png) 📡 | Web scraping project that extracts and structures academic data programmatically. |
+- ⚙️ Mastering **Data Structures & Algorithms in Java**
+- ⚛️ Learning **React + Flask** to build full-stack applications
+- 🔧 Improving my **Git & GitHub workflow**
+- 🚀 Participating in **hackathons and rapid prototype builds**
 
 ---
+
+📌 **Projects I've Built:**
+
+- 🤖 **Face Emotion Detection System** – Built with Python & OpenCV to analyze human facial expressions  
+- 📊 **Student Management System** – Java OOP-based system for managing student records with modular design  
+- 💊 **Mediser** – Medicine information web application with backend data handling  
+- 📡 **University Course Data Scraper** – Python tool to extract and structure university course data  
+- 🌐 **Tourism Web Project** – Responsive website focusing on layout and UI structure  
+- 📱 **Instagram UI Clone** – Built to practice frontend layout replication  
+- 🧠 **My Python StudyBuddy** – Beginner learning assistant for Python fundamentals  
+- ⚔️ **3D Sword Modeling Project** – Blender project recreating a legendary sword scene
+
+---
+
 ### 🛠️ Tech Stack  
 
 ---
@@ -88,6 +68,46 @@
 #### 🎨 Design & Creative  
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
 
+
+💻 **Tech Stack**
+
+`Java` · `Python` · `HTML` · `CSS` · `Flask` · `OpenCV`  
+`MySQL` · `SQLite` · `Git` · `GitHub`  
+`IntelliJ IDEA` · `VS Code` · `Blender`
+
+---
+
+🚀 **Engineering Focus**
+
+- ⚙️ Backend system development  
+- 🤖 AI experimentation and computer vision  
+- 📊 Working with structured data and scraping pipelines  
+- 🌐 Building clean and simple web applications  
+- 🧠 Strengthening algorithmic thinking through DSA
+
+---
+
+📈 **GitHub Stats**
+
+![](https://komarev.com/ghpvc/?username=milindgajbhiye&color=brightgreen)
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=milindgajbhiye&show_icons=true&rank_icon=github&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindgajbhiye&layout=compact&theme=transparent" />
+</p>
+
+---
+
+📫 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milind-gajbhiye)  
+[![GitHub](https://img.shields.io/badge/GitHub-milindgajbhiye-black?style=flat&logo=github)](https://github.com/milindgajbhiye)
+
+---
+
+🌱 **Always learning, building, and improving one project at a time.**  
+Check out my repositories or reach out if you want to collaborate on something interesting.
+
 ### 💡 Things I’m Proud Of  
 
 - 🚀 Consistently building real-world projects instead of staying in tutorial mode  
@@ -122,7 +142,6 @@ I enjoy working with people who value clean code, structured thinking, and conti
 - 🔗 **LinkedIn:** www.linkedin.com/in/milind-gajbhiye-545763262
 
 If you're building something meaningful and need a committed developer who’s constantly leveling up — let’s connect.
-
 
 ### ⚡ Fun Fact  
 - My debugging technique? **Add print statements everywhere and hope for the best.**  
