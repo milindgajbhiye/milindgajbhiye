@@ -127,33 +127,25 @@ public class MilindGajbhiye {
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=milindgajbhiye&theme=tokyonight&hide_border=true&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="streak stats" width="49%"/>
 
-<!-- General Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=milindgajbhiye&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="github stats" width="49%"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milindgajbhiye&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" width="49%"/>
-
-<!-- Trophies -->
+<img src="https://streak-stats.demolab.com?user=milindgajbhiye&theme=tokyonight&hide_border=true" width="49%" />
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=milindgajbhiye&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="trophies" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=milindgajbhiye&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=milindgajbhiye&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/>
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milindgajbhiye/milindgajbhiye/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milindgajbhiye/milindgajbhiye/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/milindgajbhiye/milindgajbhiye/output/github-contribution-grid-snake.svg"/>
-</picture>
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/milindgajbhiye/milindgajbhiye/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ---
 
 ## 📊 Contribution Activity
