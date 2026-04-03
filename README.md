@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Milind%20Gajbhiye&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software+Engineer+%7C+AI+%26+Robotics+Developer+%7C+Builder&descAlignY=62&descSize=17" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=blur&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Milind%20Gajbhiye&fontSize=60&fontColor=ffffff)
+
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/milindgajbhiye">
