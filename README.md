@@ -210,7 +210,41 @@ public class MilindGajbhiye {
 
 ---
 
-## 🚀 Projects I've Built
+## 🏅 Competitive Coding & DSA
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/milindgajbhiye/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/milindgajbhiye)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/milindgajbhiye)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/milindgajbhiye/)
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/milindgajbhiye?theme=dark&font=Baloo_2&ext=heatmap" width="55%" alt="LeetCode Stats"/>
+
+</div>
+
+---
+
+## 🗺️ 2026 Roadmap
+
+<div align="center">
+
+| Status | Goal |
+|:------:|:-----|
+| 🔄 | Solve **300+ LeetCode problems** — mastering patterns & complexity |
+| 🔄 | Build and **deploy 3 full-stack projects** with CI/CD pipelines |
+| 🔄 | Make **meaningful open-source contributions** (5+ PRs merged) |
+| 🔄 | Deep-dive into **Deep Learning & Computer Vision** (CNNs, YOLO, Transformers) |
+| 🔄 | Build a complete **ROS-based robotic simulation** project |
+| 🔄 | Launch a personal **portfolio website** with project showcases |
+| 🔄 | Explore **Docker & cloud deployment** (AWS / GCP basics) |
+| 🔄 | Land an **AI/ML or Software Engineering** internship or full-time role |
+
+</div>
+
+---
 
 <div align="center">
 
@@ -240,6 +274,8 @@ A Python-based computer vision project that detects and classifies **7 human emo
 
 `Python` `OpenCV` `TensorFlow/Keras` `NumPy` `Matplotlib`
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/milindgajbhiye/face-emotion-detection)
+
 </td>
 <td width="50%" valign="top">
 
@@ -260,6 +296,8 @@ An intelligent tutoring chatbot that helps absolute beginners learn Python throu
 - 🔁 Persistent session memory for continued learning
 
 `Python` `NLP (basic)` `JSON knowledge base` `CLI Interface`
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/milindgajbhiye/python-studybuddy)
 
 </td>
 </tr>
@@ -293,6 +331,8 @@ A complete web application that allows users to search for medicine information,
 
 `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `REST API`
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/milindgajbhiye/mediser)
+
 </td>
 <td width="50%" valign="top">
 
@@ -313,6 +353,8 @@ A comprehensive Java application for managing student academic records using Obj
 - 💾 File I/O for **persistent data storage**
 
 `Java` `OOP` `Collections Framework` `File I/O` `Exception Handling`
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/milindgajbhiye/student-management-system)
 
 </td>
 </tr>
@@ -340,6 +382,8 @@ A Python web scraper that automatically extracts, structures, and exports univer
 
 `Python` `BeautifulSoup` `Requests` `Pandas` `CSV/JSON`
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/milindgajbhiye/university-course-scraper)
+
 </td>
 <td width="50%" valign="top">
 
@@ -360,6 +404,8 @@ A fully responsive multi-page tourism website showcasing travel destinations, to
 - 🎨 Carefully crafted color palette and typography
 
 `HTML5` `CSS3` `JavaScript` `Responsive Design` `CSS Animations`
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/milindgajbhiye/tourism-website)
 
 </td>
 </tr>
@@ -386,6 +432,8 @@ A detailed front-end recreation of Instagram's web interface — built purely wi
 
 `HTML5` `CSS3` `Flexbox` `CSS Grid`
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/milindgajbhiye/instagram-ui-clone)
+
 </td>
 <td width="50%" valign="top">
 
@@ -406,6 +454,8 @@ A fully detailed 3D model of a legendary fantasy sword with environment scene, m
 - 🌟 Cinematic scene composition and **depth of field**
 
 `Blender` `3D Modeling` `PBR Materials` `Cycles Renderer` `Lighting Design`
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/milindgajbhiye/3d-sword-blender)
 
 </td>
 </tr>
@@ -550,6 +600,10 @@ A fully detailed 3D model of a legendary fantasy sword with environment scene, m
 
 <br/>
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/milindgajbhiye)
+
+<br/>
+
 <i>📬 Always happy to connect, collaborate, or just talk tech!</i>
 
 </div>
@@ -562,6 +616,12 @@ A fully detailed 3D model of a legendary fantasy sword with environment scene, m
 > *"My debugging technique? Add `System.out.println()` everywhere and hope for the best."* 😅  
 > *"I annotated 10,000+ robotic sensor frames before breakfast."* 🤖  
 > *"I talk to my code. Sometimes it listens."* 💻
+
+<br/>
+
+### 💬 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote"/>
 
 <br/>
 
