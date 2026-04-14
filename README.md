@@ -322,7 +322,7 @@ public class MilindGajbhiye {
 - 📈 Grade analytics engine: average, rank, and top-performer reports
 - 💾 First project where I felt the real value of OOP — maintainability, not just syntax
 
-`Java` `OOP` `Collections Framework` `File I/O` `Exception Handling`
+`Java` `OOPs` `Collections Framework` `File I/O` `Exception Handling`
 
 </td>
 </tr>
