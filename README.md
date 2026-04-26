@@ -148,7 +148,7 @@ public class MilindGajbhiye {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack i use
 
 <div align="center">
 
